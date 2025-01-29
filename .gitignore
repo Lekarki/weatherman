@@ -56,7 +56,7 @@ cover/
 *.pot
 
 # apikey
-.api_key
+api_key
 
 # Django stuff:
 *.log
