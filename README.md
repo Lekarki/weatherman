@@ -16,7 +16,7 @@
   - Navigate to directory with terminal
   - From the directory <code>$ pip3 install -r requirements.txt</code>
 ### Operation
-- From the directory <code>$ python3 saa.py weather [YOURCITY]</code>
+- From the directory <code>$ python3 saa.py weather [CITY]</code>
 - Example <code>$ python3 saa.py weather Helsinki</code>
 - See help and avaible commands <code>$ python3 saa.py --help</code>
-- On some cases you can replace <code>python3</code> with just <code>python</code>
+- On some cases you may need to replace <code>python3</code> with <code>python</code> or <code>py</code> and <code>pip3</code> with <code>pip</code>
