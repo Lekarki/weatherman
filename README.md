@@ -1,6 +1,7 @@
 # weatherman
 
 ## CLI Weather program
+ A python program that prints out various weather data from openweathermap API
 
 <img width="425" alt="apina" src="https://github.com/user-attachments/assets/cf144f27-5dd4-449e-9acc-2dd29820a7ff" />
 
