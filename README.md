@@ -5,6 +5,8 @@
 
 <img width="425" alt="apina" src="https://github.com/user-attachments/assets/cf144f27-5dd4-449e-9acc-2dd29820a7ff" />
 
+<img width="602" alt="Screenshot 2025-03-03 at 8 52 58" src="https://github.com/user-attachments/assets/7794701d-c12f-4da4-af1c-b3d1bc467c83" />
+
 
 # Install
 - Requires python to be installed! <code>$ brew install python</code>
