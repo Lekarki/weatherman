@@ -18,7 +18,10 @@
 - ### Install dependencies
   - Navigate to your directory on command line
   - In the directory <code>$ pip3 install -r requirements.txt</code>
-### Operation
+# Operation
+
+### <code>$ python3 saa.py [COMMAND] [CITY]</code>
+
 - In the directory <code>$ python3 saa.py weather [CITY]</code>
 - Example <code>$ python3 saa.py weather Helsinki</code>
 - See help and avaible commands <code>$ python3 saa.py --help</code>
