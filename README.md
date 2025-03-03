@@ -12,12 +12,12 @@
 - ### Get api key
   - [openweatherapp.org](https://openweathermap.org/)
     - Needs account
-  - Create file called <b>"api_key.txt"</b> in your directory and paste your key inside
+  - Create file called <b>"api_key.txt"</b> in the directory and paste your key inside
 - ### Install dependencies
-  - Navigate to directory with terminal
-  - From the directory <code>$ pip3 install -r requirements.txt</code>
+  - Navigate to your directory on command line
+  - In the directory <code>$ pip3 install -r requirements.txt</code>
 ### Operation
-- From the directory <code>$ python3 saa.py weather [CITY]</code>
+- In the directory <code>$ python3 saa.py weather [CITY]</code>
 - Example <code>$ python3 saa.py weather Helsinki</code>
 - See help and avaible commands <code>$ python3 saa.py --help</code>
 - On some cases you may need to replace <code>python3</code> with <code>python</code> or <code>py</code> and <code>pip3</code> with <code>pip</code>
