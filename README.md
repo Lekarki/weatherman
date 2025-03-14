@@ -10,7 +10,7 @@
 
 # Install
 - Requires python <code>$ brew install python</code>
-- Extract .zip in desired directory
+- ### Extract .zip in desired directory
 - ### Get api key
   - Get your api key from [openweatherapp.org](https://openweathermap.org/)
     -  * Requires an account
